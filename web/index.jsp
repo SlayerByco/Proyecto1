@@ -43,7 +43,7 @@
                 <div id="avisoUser" class="barra"><img src="imagenes/Captura.PNG"/> Please write only alphanumeric characters, this field is required.</div>
                 <input type="text" id="user"><br>
                 <span>Email</span><br>
-                <div id="avisoEmail" class="barra"><img src="imagenes/Captura.PNG"/> Please write a correct Email address, this field is required.</div>
+                <div id="avisoEmail" class="barra"><img src="imagenes/Captura.PNG"/> Please write a correct Email address, this field is patata.</div>
                 <input type="text" id="pass"><br>
                 <input type="button" id="bot" value="GO" onclick="cambiarClase()">
             </form>
