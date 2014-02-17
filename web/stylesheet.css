@@ -1,0 +1,36 @@
+/* 
+    Document   : stylesheet
+    Created on : 06-feb-2014, 9:13:12
+    Author     : A7
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+#contenedor{
+    background-color: #cccccc;
+    height: 200px;
+    width: 600px;
+    margin: 100px auto;
+}
+.barra{
+    background-color: #ffffcc;
+    opacity: 0;
+    height: 0px;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    
+}
+.barraChange{
+    height: 21px;
+    opacity: 1;
+    background-color: #ffffcc;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+form{
+    margin: 20px;
+}
+
